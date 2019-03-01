@@ -3,4 +3,4 @@ Das ist ein Test repo für den Library Carpentry in Berlin (FU-Weiterbidungszent
 Inhalte des Workshops waren
 - Shell (mit Git Bash)
 - Python (mit Anaconda Navigator / Jupyter Notebook)
-Git und Github Hackpad zum Workshop: https://bit.ly/2RJjW9o
+- Git und Github Hackpad zum Workshop: https://bit.ly/2RJjW9o
