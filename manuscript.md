@@ -1,2 +1,2 @@
-# aesome Manuscript
+# Awesome Manuscript
 Autor: Petra Galle_1
